@@ -1,11 +1,9 @@
 import React, { Component } from "react";
 import { Route, Switch } from "react-router";
 import "./App.css";
-// import NavBar from "./components/nav/NavBar";
 import history from "./utils/history.js";
 import Home from "./components/home/Home";
 import Salts from "./components/salts/salts";
-import Lost from "./components/404/404";
 import { BrowserRouter as Router } from "react-router-dom";
 import { Button } from "reactstrap";
 import { Navbar, NavDropdown, Nav, Container } from "react-bootstrap";
@@ -34,7 +32,6 @@ class App extends Component {
         <div>
           <header>
             <Navbar className="navBar fixed" bg="dark" expand="lg">
-              {/* <Container> */}
                 <Navbar.Brand href="#home">
                   <img
                     id="iVape-logo"
@@ -44,9 +41,6 @@ class App extends Component {
                     srcset=""
                   />
                 </Navbar.Brand>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                <Navbar.Collapse id="basic-navbar-nav">
-                  {/* <Nav className="me-auto"> */}
                   <Nav.Link
                     className="nav-text"
                     id="navBtn"
@@ -54,10 +48,6 @@ class App extends Component {
                   >
                     Salts
                   </Nav.Link>
-
-                  {/* </Nav> */}
-                </Navbar.Collapse>
-              {/* </Container> */}
             </Navbar>
           </header>
           <div className="App">
@@ -76,19 +66,16 @@ class App extends Component {
         <div>
           
             <header>
-              <Navbar className="navBar fixed" bg="dark" expand="lg">
-                {/* <Container> */}
-                  <Navbar.Brand href="#home">
-                    <img
-                      id="iVape-logo"
-                      className="iVape-logo"
-                      src={Logo}
-                      alt="iVape-logo"
-                      srcset=""
-                    />
-                  </Navbar.Brand>
-                  <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                  <Navbar.Collapse id="basic-navbar-nav">
+            <Navbar className="navBar fixed" bg="dark" expand="lg">
+                <Navbar.Brand href="#home">
+                  <img
+                    id="iVape-logo"
+                    className="iVape-logo"
+                    src={Logo}
+                    alt="iVape-logo"
+                    srcset=""
+                  />
+                </Navbar.Brand>
                     <Nav.Link
                       className="nav-text"
                       id="navBtn"
@@ -96,9 +83,7 @@ class App extends Component {
                     >
                       Sub Ohm Flavors
                     </Nav.Link>
-                  </Navbar.Collapse>
-                {/* </Container> */}
-              </Navbar>
+                    </Navbar>
             </header>
             <div  className="App">
             <body>

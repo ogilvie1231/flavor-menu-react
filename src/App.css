@@ -2,7 +2,6 @@
 .iVape-logo {
     max-height: 70px;
     margin-left: 50%;
-
 }
 
 .App {
@@ -53,3 +52,10 @@ body {
   background-attachment: fixed;
 }
 
+@media only screen and (max-width: 774px) {
+
+  #navBtn {
+    margin: auto;
+  }
+
+}
