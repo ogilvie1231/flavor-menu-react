@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ad5e674.chunk.css",
+    "main.css": "/static/css/main.a2cee4a4.chunk.css",
     "main.js": "/static/js/main.dbfef82a.chunk.js",
     "main.js.map": "/static/js/main.dbfef82a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.61a8bd89.js",
@@ -12,7 +12,7 @@
     "static/js/3.a60f4de5.chunk.js.map": "/static/js/3.a60f4de5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/static/css/2.da1eef19.chunk.css.map",
-    "static/css/main.7ad5e674.chunk.css.map": "/static/css/main.7ad5e674.chunk.css.map",
+    "static/css/main.a2cee4a4.chunk.css.map": "/static/css/main.a2cee4a4.chunk.css.map",
     "static/js/2.ae4cf31c.chunk.js.LICENSE.txt": "/static/js/2.ae4cf31c.chunk.js.LICENSE.txt",
     "static/media/anarchist-logo.9a0f7f96.png": "/static/media/anarchist-logo.9a0f7f96.png",
     "static/media/menu.css": "/static/media/background.b9b3d8ef.jpg",
@@ -51,7 +51,7 @@
     "static/js/runtime-main.61a8bd89.js",
     "static/css/2.da1eef19.chunk.css",
     "static/js/2.ae4cf31c.chunk.js",
-    "static/css/main.7ad5e674.chunk.css",
+    "static/css/main.a2cee4a4.chunk.css",
     "static/js/main.dbfef82a.chunk.js"
   ]
 }
