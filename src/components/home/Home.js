@@ -47,18 +47,14 @@ class Home extends Component {
             <Anarchist />
             <Badger />
             <Beard />
-            <Burst />
-            <Cali />
             <Chubby />
             <Coastal />
-            <Colors />
             <Faq />
             <FreshFarms />
-            <FreshPressed />
             <Fruitia />
             <Glas />
             <Golden />
-            <Gummy />
+            {/* <Gummy /> */}
             <JavaJoe />
             <JuiceHead />
             <Lyf />

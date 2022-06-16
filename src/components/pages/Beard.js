@@ -24,15 +24,6 @@ class Beard extends Component {
                            <img className='flavors-img' src={Flavor}></img>
                        </div>
                         <div className="row">
-      
-                            <div className='col-md-4 col-sm-6'>
-                                <h3 className=' flavor-name'>#24</h3>
-                                <div className='line'>
-                                </div>
-                                <p className='text'>
-                                A divine salted caramel malt that you have to try to believe
-                                </p>
-                            </div>
                             <div className='col-md-4 col-sm-6'>
                                 <h3 className=' flavor-name'>#32</h3>
                                 <div className='line'>

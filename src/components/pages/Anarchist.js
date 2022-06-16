@@ -37,7 +37,14 @@ class Anarchist extends Component {
                                 A Blue Raspberry Slurpee
                                 </p>
                             </div>
-                            
+                            <div className='col-md-4 col-sm-6'>
+                                <h3 className=' flavor-name'>PINK LEMONADE</h3>
+                                <div className='line'>
+                                </div>
+                                <p className='text'>
+                                A Crisp and Refreshing Pink Lemonade
+                                </p>
+                            </div>
                          </div>
                          <div className='row text end'>
                                 <p>

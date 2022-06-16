@@ -106,6 +106,34 @@ class Glas extends Component {
                     sugar caramel topped with cinnamon and nutmeg
                   </p>
                 </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Guava Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    Ripe guava fruit with a satisfying icy finish
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Lush Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    xxxx
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Peach Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    Frozen watermelons with a touch of strawberries
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Strawberry Banana Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    An icy strawberry banana that is difficult to put down
+                  </p>
+                </div>
               </div>
               <div className="row text end">
                 <p>

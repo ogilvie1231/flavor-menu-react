@@ -30,6 +30,13 @@ class Coastal extends Component {
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Apple Watermelon</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    The combination of apples and watermelons you have ever tried
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Banana Blueberry Muffin</h3>
                   <div className="line"></div>
                   <p className="text">
@@ -45,12 +52,25 @@ class Coastal extends Component {
                     than it sounds
                   </p>
                 </div>
-
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Blueberry Lime</h3>
                   <div className="line"></div>
                   <p className="text">
                     Ripe Blueberries blended into a perfect limeade
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Caramel Brulee</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    A decadent sweet caramel pie
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Citrus Peach</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    Sweet peaches blended with a twinge of citrus to bring it all together
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
@@ -94,6 +114,11 @@ class Coastal extends Component {
                   <p className="text">Fresh mint with a cooling finish</p>
                 </div>
                 <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Mixed Berries</h3>
+                  <div className="line"></div>
+                  <p className="text">We don't konw how but they've managed to get all of your favorite berries into a perfect flavor but here it is</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Peach Tea</h3>
                   <div className="line"></div>
                   <p className="text">
@@ -107,7 +132,6 @@ class Coastal extends Component {
                     Exotic guavas, rich mangos, and golden pineapples
                   </p>
                 </div>
-
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Pink Lemonade</h3>
                   <div className="line"></div>
@@ -128,7 +152,6 @@ class Coastal extends Component {
                     Flavorful strawberries and smooth, sweet cream
                   </p>
                 </div>
-
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Strawberry Pineapple Coconut</h3>
                   <div className="line"></div>
@@ -137,10 +160,31 @@ class Coastal extends Component {
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Strawberry Kiwi</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    A refreshing take on a classic combination
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Tres Leches</h3>
                   <div className="line"></div>
                   <p className="text">
                     Rich caramel and sweet cream, with a buttery finish
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Tobacco</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    A classic tobacco flavor that is sure to satisfy
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Vanilla Custard</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    A vanilla custard that hits every taste bud
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
@@ -164,6 +208,13 @@ class Coastal extends Component {
                   <p className="text">
                     An incredible apple peach strawberry blend topped with
                     menthol
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Iced Apple Watermelon</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    The combination of apples and watermelons you have ever tried with an icy kick
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
@@ -198,13 +249,19 @@ class Coastal extends Component {
                     topped with menthol
                   </p>
                 </div>
-
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Iced POG</h3>
                   <div className="line"></div>
                   <p className="text">
                     Fresh passion fruits, juicy oranges, and sweet guavas with a
                     cooling menthol finish
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Iced Strawberry Kiwi</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    A refreshing take on a classic combination with an icy finish
                   </p>
                 </div>
               </div>
