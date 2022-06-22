@@ -4,9 +4,9 @@ import Logo from "../../assets/img/ivape-logo.png";
 import "./menu.css";
 import Flavor from "../../assets/img/flavors.png";
 import { Container } from "react-bootstrap";
-import Brand from "../../assets/logos/zen-haus-logo.png";
+import Brand from "../../assets/logos/qurious-logo.png";
 
-class ZenSalts extends Component {
+class QuriousSalt extends Component {
   render() {
     return (
       <div>
@@ -22,44 +22,40 @@ class ZenSalts extends Component {
               </div>
               <div className="row">
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Meditation</h3>
+                  <h3 className=" flavor-name">Blood Orange honeydew</h3>
                   <div className="line"></div>
-                  <p className="text">Watermelon, jackfruit & grapefruit</p>
+                  <p className="text">Tart blood oranges mixed with a ripe honeydew</p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Nirvana</h3>
+                  <h3 className=" flavor-name">Fuji Apple Peach Gummy</h3>
                   <div className="line"></div>
-                  <p className="text">Mango, passionfruit & strawberry</p>
+                  <p className="text">
+                    A candy concotion of deliscous Fuji apples and peaches
+                  </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Rebirth</h3>
+                  <h3 className=" flavor-name">Whipped Pineapple Ice</h3>
                   <div className="line"></div>
-                  <p className="text">Nectarine, raspberry & apple</p>
+                  <p className="text">
+                    A creamy whipped pineapple with a touch of refreshing ice
+                  </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Serenity</h3>
+                  <h3 className=" flavor-name">Passion Fruit Orange Guava</h3>
                   <div className="line"></div>
-                  <p className="text">Mango, pineapple & coconut</p>
+                  <p className="text">
+                    A new take on the classic POG
+                  </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Meditation Ice</h3>
+                  <h3 className=" flavor-name">Watermelon Apple Freeze</h3>
                   <div className="line"></div>
-                  <p className="text">Watermelon, jackfruit & grapefruit with a menthol finish</p>
+                  <p className="text">Ripe watermelons and apples with an icy finish</p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Nirvana Ice</h3>
+                  <h3 className=" flavor-name">Mango Peach Watermelon</h3>
                   <div className="line"></div>
-                  <p className="text">Mango, passionfruit & strawberry with a menthol finish</p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Rebirth Ice</h3>
-                  <div className="line"></div>
-                  <p className="text">Nectarine, raspberry & apple with a menthol finish</p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Serenity Ice</h3>
-                  <div className="line"></div>
-                  <p className="text">Mango, pineapple & coconut with a menthol finish</p>
+                  <p className="text">One of the most delightful combinations of mangos peaches and watermelons</p>
                 </div>
               </div>
               <div className="row text end">
@@ -68,14 +64,16 @@ class ZenSalts extends Component {
                     24mg Nic Salt
                   </strong>
                   <br />
-                  <strong className="end-text">$11.99 15ml</strong>
+                  <strong className="end-text">$13.99 15ml</strong>
                 </p>
               </div>
             </div>
+
           </Container>
         </body>
       </div>
     );
   }
 }
-export default ZenSalts;
+
+export default QuriousSalt;

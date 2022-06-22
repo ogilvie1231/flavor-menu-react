@@ -30,11 +30,31 @@ class CoastalSalts extends Component {
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Apple Watermelon</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    An apple watermelon that is hard to put down
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Iced Apple Watermelon</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    An apple watermelon that is hard to put down with an icy
+                    kick
+                  </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Blueberry Lime</h3>
                   <div className="line"></div>
                   <p className="text">
                     Ripe Blueberries blended into a perfect limeade
                   </p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Caramel Brulee</h3>
+                  <div className="line"></div>
+                  <p className="text">A decadent caramel brulee</p>
                 </div>
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Chilled Apple Pear</h3>
@@ -84,6 +104,16 @@ class CoastalSalts extends Component {
                   <p className="text">Fresh mint with a cooling finish</p>
                 </div>
                 <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Strawberry Kiwi</h3>
+                  <div className="line"></div>
+                  <p className="text">A strawberry kiwi combination</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Iced Strawberry Kiwi</h3>
+                  <div className="line"></div>
+                  <p className="text">A strawberry kiwi combination with a smooth menthol</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Tobacco</h3>
                   <div className="line"></div>
                   <p className="text">
@@ -91,12 +121,17 @@ class CoastalSalts extends Component {
                     tobacco flavor
                   </p>
                 </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Vanilla Custard</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    This divine vanilla custard hits all your taste buds
+                  </p>
+                </div>
               </div>
               <div className="row text end">
                 <p>
-                  <strong className="end-text">
-                    24mg Nic Salt
-                  </strong>
+                  <strong className="end-text">24mg Nic Salt</strong>
                   <br />
                   <strong className="end-text">$11.99 15ml</strong>
                 </p>

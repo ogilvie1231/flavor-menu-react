@@ -4,9 +4,9 @@ import Logo from "../../assets/img/ivape-logo.png";
 import "./menu.css";
 import Flavor from "../../assets/img/flavors.png";
 import { Container } from "react-bootstrap";
-import Brand from "../../assets/logos/slammin-logo.png";
+import Brand from "../../assets/logos/qurious-logo.png";
 
-class Slammin extends Component {
+class Qurious extends Component {
   render() {
     return (
       <div>
@@ -22,68 +22,45 @@ class Slammin extends Component {
               </div>
               <div className="row">
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Blue</h3>
+                  <h3 className=" flavor-name">Blood Orange honeydew</h3>
+                  <div className="line"></div>
+                  <p className="text">Tart blood oranges mixed with a ripe honeydew</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Fuji Apple Peach Gummy</h3>
                   <div className="line"></div>
                   <p className="text">
-                    A sugary rush of blue raspberry and ripe blueberries.
+                    A candy concotion of deliscous Fuji apples and peaches
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Blue</h3>
+                  <h3 className=" flavor-name">Whipped Pineapple Ice</h3>
                   <div className="line"></div>
                   <p className="text">
-                    A sugary rush of blue raspberry and ripe blueberries with an icy kick.
+                    A creamy whipped pineapple with a touch of refreshing ice
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Green</h3>
+                  <h3 className=" flavor-name">Passion Fruit Orange Guava</h3>
                   <div className="line"></div>
                   <p className="text">
-                    A tart and sweet green apple, juicy and crisp.
+                    A new take on the classic POG
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Pink</h3>
+                  <h3 className=" flavor-name">Watermelon Apple Freeze</h3>
                   <div className="line"></div>
-                  <p className="text">
-                    Fresh summer slices of watermelon, juicy and crisp.
-                  </p>
+                  <p className="text">Ripe watermelons and apples with an icy finish</p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Pink Ice</h3>
+                  <h3 className=" flavor-name">Mango Peach Watermelon</h3>
                   <div className="line"></div>
-                  <p className="text">
-                    Fresh summer slices of watermelon, juicy and crisp with a touch of menthol.
-                  </p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Red</h3>
-                  <div className="line"></div>
-                  <p className="text">
-                    Sun-drenched strawberries blended into a fabulous vape juice
-                    flavor.
-                  </p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Yellow</h3>
-                  <div className="line"></div>
-                  <p className="text">
-                    Juicy peach slices, with a freshly picked flavor that's ripe
-                    and crisp.
-                  </p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Yellow Ice</h3>
-                  <div className="line"></div>
-                  <p className="text">
-                    Juicy peach slices, with a freshly picked flavor that's ripe
-                    and crisp with a touch of menthol.
-                  </p>
+                  <p className="text">One of the most delightful combinations of mangos peaches and watermelons</p>
                 </div>
               </div>
               <div className="row text end">
                 <p>
-                  <strong className="end-text">PG/VG: 40%/60%</strong>
+                  <strong className="end-text">PG/VG: 30%/70%</strong>
                   <br />
                   <strong className="end-text">
                     Nicotine Levels: 0mg, 3mg, 6mg
@@ -93,6 +70,7 @@ class Slammin extends Component {
                 </p>
               </div>
             </div>
+
           </Container>
         </body>
       </div>
@@ -100,4 +78,4 @@ class Slammin extends Component {
   }
 }
 
-export default Slammin;
+export default Qurious;

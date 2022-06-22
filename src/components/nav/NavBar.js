@@ -26,7 +26,6 @@ const NavBar = () => {
               <Nav.Link className="nav-text" href="/salts">
                 Salts
               </Nav.Link>
-
             </Nav>
           </Navbar.Collapse>
         </Container>

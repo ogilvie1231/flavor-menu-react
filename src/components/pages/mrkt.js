@@ -1,12 +1,10 @@
 import React, { Component } from "react";
-// import Navbar from "../nav/NavBar"
-import Logo from "../../assets/img/ivape-logo.png";
 import "./menu.css";
 import Flavor from "../../assets/img/flavors.png";
 import { Container } from "react-bootstrap";
-import Brand from "../../assets/logos/hi-drip-logo.png";
+import Brand from "../../assets/logos/mrkt -plce-logo.png";
 
-class HidripSalts extends Component {
+class Mrkt extends Component {
   render() {
     return (
       <div>
@@ -22,84 +20,71 @@ class HidripSalts extends Component {
               </div>
               <div className="row">
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Dewberr</h3>
-                  <div className="line"></div>
-                  <p className="text">Dewberr</p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">Dewberr</h3>
-                  <div className="line"></div>
-                  <p className="text">Dewberr</p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Blue Punch Berry</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
+                    A sweet and sour blueberry lemonade with raspberries and a touch of lime
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Forbidden Berry</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
+                    A concoction of mixed berries that is to die for
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Iced Forbidden Berry</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
+                  A concoction of mixed berries that is to die for with a delightful touch of menthol
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Fuji Pear Mangoberry</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
+                    A tropical blend of apples, pears, mangos and ripe berries
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Pineapple Peach Dragonberry</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
+                    Pineapples, peaches, berries and a touch of dragon fruit
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Pink Punch Berry</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
+                    A strawberry watermelon lemonade
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Lemon Biscotti</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
+                    A fresh from the oven zesty lemon biscotti
                   </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
+                  <h3 className=" flavor-name">Watermelon Hula Berry Lime</h3>
                   <div className="line"></div>
                   <p className="text">
-                    xxx
-                  </p>
-                </div>
-                <div className="col-md-4 col-sm-6">
-                  <h3 className=" flavor-name">xxx</h3>
-                  <div className="line"></div>
-                  <p className="text">
-                    xxx
+                    A tart blend of watermelons and hula berries finished with a touch of lime
                   </p>
                 </div>
               </div>
               <div className="row text end">
                 <p>
-                  <strong className="end-text">24mg Nic Salt</strong>
+                  <strong className="end-text">PG/VG: 30%/70%</strong>
                   <br />
-                  <strong className="end-text">$11.99 15ml</strong>
+                  <strong className="end-text">
+                    Nicotine Levels: 0mg, 3mg, 6mg
+                  </strong>
+                  <br />
+                  <strong className="end-text">$19.99 60ml</strong>
                 </p>
               </div>
             </div>
@@ -110,4 +95,4 @@ class HidripSalts extends Component {
   }
 }
 
-export default HidripSalts;
+export default Mrkt;

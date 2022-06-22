@@ -17,19 +17,18 @@ import Golden from "../pages/Golden-ticket";
 import Gummy from "../pages/Gummy-beast";
 import JavaJoe from "../pages/Java-joe";
 import JuiceHead from "../pages/Juice-head";
+import Jus from "../pages/Jus"
 import Lyf from "../pages/Lyf";
 import Mega from "../pages/Mega";
 import Milkshake from "../pages/Milkshake";
 import Mints from "../pages/Mints";
+import Mrkt from "../pages/mrkt"
 import Naked from "../pages/Naked";
 import Pinup from "../pages/Pinup";
-import Reds from "../pages/Reds";
+import Qurious from "../pages/Qurious";
 import Slammin from "../pages/Slammin";
 import Svrf from "../pages/Svrf";
 import Taylor from "../pages/Taylor";
-import TimeBomb from "../pages/Time-bomb";
-import Verdict from "../pages/Verdict";
-import Wyatt from "../pages/Wyatt-earp";
 import Zen from "../pages/Zen-haus";
 
 
@@ -54,22 +53,20 @@ class Home extends Component {
             <Fruitia />
             <Glas />
             <Golden />
-            {/* <Gummy /> */}
             <JavaJoe />
             <JuiceHead />
+            <Jus />
             <Lyf />
             <Mega />
             <Milkshake />
             <Mints />
+            <Mrkt />
             <Naked />
             <Pinup />
-            <Reds />
+            <Qurious />
             <Slammin />
             <Svrf />
             <Taylor />
-            <TimeBomb />
-            <Verdict />
-            <Wyatt />
             <Zen />
           </div>
         </body>

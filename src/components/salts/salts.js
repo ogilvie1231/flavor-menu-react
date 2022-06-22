@@ -4,13 +4,13 @@ import Logo from "../../assets/img/ivape-logo.png";
 import "./salts.css";
 import ZenSalts from "../pages/Zen-salt";
 import BadgerSalts from "../pages/Badger-salt";
-import BurstSalts from "../pages/Burst-salt";
 import CoastalSalts from "../pages/Coastal-salt";
 import FreshFarmsSalts from "../pages/Fresh-farms-salt";
-import FreshPressedSalts from "../pages/Fresh-pressed-salt";
 import FruitiaSalts from "../pages/Fruitia-salt";
+import HidripSalts from "../pages/Hi-drip-salt";
 import MegaSalts from "../pages/Mega-salt";
 import MintsSalts from "../pages/Mint-salt";
+import QuriousSalt from "../pages/Qurious-salt";
 import GoldenSalts from "../pages/Golden-salt";
 import SvrfSalts from '../pages/Svrf-salt';
 import TaylorSalts from "../pages/Taylor-salt";
@@ -28,14 +28,14 @@ class Salt extends Component {
               <div className='myLine'></div>
             </div>
             <BadgerSalts />
-            <BurstSalts />
             <CoastalSalts />
             <FreshFarmsSalts />
-            <FreshPressedSalts />
             <FruitiaSalts />
             <GoldenSalts />
             <MegaSalts />
             <MintsSalts />
+            {/* <HidripSalts /> */}
+            <QuriousSalt />
             <SvrfSalts />
             <TaylorSalts />
             <TimeBombSalts />

@@ -41,6 +41,26 @@ class Zen extends Component {
                   <div className="line"></div>
                   <p className="text">Mango, pineapple & coconut</p>
                 </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Meditation Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">Watermelon, jackfruit & grapefruit with a menthol finish</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Nirvana Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">Mango, passionfruit & strawberry with a menthol finish</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Rebirth Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">Nectarine, raspberry & apple with a menthol finish</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Serenity Ice</h3>
+                  <div className="line"></div>
+                  <p className="text">Mango, pineapple & coconut with a menthol finish</p>
+                </div>
               </div>
               <div className="row text end">
                 <p>
