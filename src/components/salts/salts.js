@@ -34,7 +34,7 @@ class Salt extends Component {
             <GoldenSalts />
             <MegaSalts />
             <MintsSalts />
-            {/* <HidripSalts /> */}
+            <HidripSalts />
             <QuriousSalt />
             <SvrfSalts />
             <TaylorSalts />

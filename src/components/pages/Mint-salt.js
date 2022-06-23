@@ -19,10 +19,22 @@ class MintsSalts extends Component {
                 <img className="flavors-img" src={Flavor}></img>
               </div>
               <div className="row">
+              <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Apple Mint</h3>
+                  <div className="line"></div>
+                  <p className="text">A delicious Apple and mint flavor</p>
+                </div>
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Chocomint</h3>
                   <div className="line"></div>
                   <p className="text">A delicious chocolate and mint flavor</p>
+                </div>
+                <div className="col-md-4 col-sm-6">
+                  <h3 className=" flavor-name">Lemon Mint</h3>
+                  <div className="line"></div>
+                  <p className="text">
+                    A zesty lemon with a minty finish
+                  </p>
                 </div>
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Peppermint</h3>
