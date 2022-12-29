@@ -57,7 +57,7 @@ class Taylor extends Component {
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Passion Peach</h3>
                   <div className="line"></div>
-                  <p className="text">xx</p>
+                  <p className="text">Passion fruit and peaches</p>
                 </div>
                 <div className="col-md-4 col-sm-6">
                   <h3 className=" flavor-name">Strawberry Mango</h3>
